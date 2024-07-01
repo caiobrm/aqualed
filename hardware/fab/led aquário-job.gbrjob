@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.3"
     },
-    "CreationDate": "2024-06-30T23:13:16-03:00"
+    "CreationDate": "2024-07-01T01:52:40-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -27,9 +27,9 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 4.0,
-      "TrackToRegion": 2.0,
-      "RegionToRegion": 2.0
+      "MinLineWidth": 3.0,
+      "TrackToRegion": 1.5,
+      "RegionToRegion": 1.5
     }
   ],
   "FilesAttributes": [
@@ -110,8 +110,9 @@
     },
     {
       "Type": "Dielectric",
+      "Color": "R213G213B213",
       "Thickness": 1.51,
-      "Material": "FR4",
+      "Material": "Al",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
@@ -122,6 +123,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "White",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
