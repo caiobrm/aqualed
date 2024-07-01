@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "eec.models")(type "KiCad")(uri "${KIPRJMOD}/RGlvZGVfTHVtZXhfU01MLUxYTDgwNDdVU0JDVFIzLnppcA/eec.pretty")(options "")(descr ""))
+)

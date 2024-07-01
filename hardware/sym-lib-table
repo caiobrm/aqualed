@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/RGlvZGVfTHVtZXhfU01MLUxYTDgwNDdVU0JDVFIzLnppcA/eec.lib")(options "")(descr ""))
+)
